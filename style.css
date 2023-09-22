@@ -145,6 +145,7 @@ th {
   }  
   
   input {
+    width: 14.2rem;
     padding: 0.5rem 4.6rem 0.5rem 0.9rem;
     margin: 0rem 0rem 1.5rem -0.2rem;
     border-radius: 0.3rem;
@@ -318,6 +319,7 @@ th {
   }
   
   input {
+    width: 18.1rem;
     padding: 0.5rem 8.2rem 0.5rem 1rem;
     margin: 0rem 0rem 1.5rem 0rem;
     border-radius: 0.3rem;
@@ -365,7 +367,7 @@ th {
   }
   
   #recommend, #improve {
-    font-size: 0.88rem;
+    font-size: 0.8rem;
   }
   
   .comment {
@@ -474,7 +476,7 @@ th {
   }
   
   input {
-    max-width: 24rem;
+    width: 24rem;
     padding: 0.7rem 14.5rem 0.7rem 1rem;
     margin: 0rem 0rem 1.5rem 0rem;
     border-radius: 0.3rem;
@@ -490,7 +492,7 @@ th {
   
   #number {
     padding: 0;
-    width: 25.8rem;
+    width: 24rem;
     padding: 0.8rem 0.5rem 0.8rem 1rem;
   }
   
@@ -639,7 +641,7 @@ th {
   }
   
   input {
-    max-width: 35rem;
+    width: 35rem;
     padding: 1rem 24rem 1rem 1rem;
     margin: 0rem 0rem 1.5rem 0rem;
     border-radius: 0.3rem;
@@ -651,7 +653,7 @@ th {
   
   #number {
     padding: 0;
-    width: 35.3rem;
+    width: 35rem;
     padding: 0.9rem 0.5rem 0.9rem 1rem;
   }
   
