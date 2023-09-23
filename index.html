@@ -17,14 +17,14 @@
 
     <form id="survey-form">
         
-        <label id="name-label"><p>Name<p/></label>
+        <label id="name-label">Name</label>
         <input id="name" type="text" name="username" placeholder="Enter your name" required>
         
-        <label id="email-label"><p>Email<p/></label>
+        <label id="email-label">Email</label>
         <input id="email" type="email" name="email" placeholder="Enter your Email" required> 
 
-        <label id="number-label" ><p class="aged">Age
-<span>(optional)<span><p/></label>
+        <label id="number-label" >Age
+<span>(optional)<span></label>
         <input id="number" type="number" name="age" placeholder="Age" min="10" max="99" required>
         <p class="sub_head">Which option best describes your current role?</p>
             <select id="dropdown" name="current_role" type="dropdownmenu" >
@@ -71,20 +71,17 @@
                 <p id="improve"><input id="checkbox" type="checkbox" value="City Meetups" >City Meetups</p>
                 <p id="improve"><input id="checkbox" type="checkbox" value="Wiki" >Wiki</p>
                 <p id="improve"><input id="checkbox" type="checkbox" value="Forums" >Forum</p>
-                <p id="improve"><input id="checkbox" type="checkbox" >Additional Courses</p>
+                <p id="improve"><input id="checkbox" type="checkbox"  value="Additional Courses">Additional Courses</p>
                 </section>
                 <br>
                 <p class="sub_head">
                     Any comments or suggestions?
                 </p>
-                <input class="comment" type="textarea" name="comment_box" placeholder="Enter your comments here..." > <br>
+                <textarea placeholder="Enter your comments here..." ></textarea> <br>
                 <button id= "submit">
-                    <a href="#" target="_blank">
-                        <p class= "textme">
-                            Submit
-                            </p>
-                    </a>
-
+                    <p class= "textme">
+                        Submit
+                        </p>
                 </button>
     </form>
 </div>
