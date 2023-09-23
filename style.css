@@ -134,7 +134,7 @@ th {
     border-radius: 0.2rem
   }
   
-  #name-label, #email-label {
+  #name-label, #email-label, #number-label {
     color: white;
     font-size: 0.8rem;
     font-family: 'Heebo', sans-serif;
@@ -152,7 +152,9 @@ th {
   }
   
   span {
+    color: white;
     font-size: 0.6rem;
+    font-family: 'Heebo', sans-serif;
   }
   
   #number {
@@ -208,20 +210,25 @@ th {
   }
   
   #recommend, #improve {
+    color: white;
     font-size: 0.8rem;
+    font-family: 'Heebo', sans-serif;
   }
 
   .sub_head {
+    color: white;
     padding: 1rem 0rem 0.2rem 0rem;
     font-size: 0.8rem;
+    font-family: 'Heebo', sans-serif;
   }
   
-  .comment {
+  textarea {
     min-width: 14rem;
-    padding: 1rem 0rem 5rem 1rem;
+    padding: 1rem 0rem 4rem 1rem;
     border-radius: 0;
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     margin-left: -0.1rem;
+    margin-bottom: 0.6rem;
   }
   
   button {
@@ -307,15 +314,17 @@ th {
     border-radius: 0.2rem
   }
   
-  #name-label, #email-label {
+  #name-label, #email-label, #number-label {
     color: white;
     font-size: 1rem;
     font-family: 'Heebo', sans-serif;
   }
   
   .sub_head {
+    color: white;
     padding: 1rem 0rem 0.2rem 0rem;
     font-size: 1rem;
+    font-family: 'Heebo', sans-serif;
   }
   
   input {
@@ -326,7 +335,9 @@ th {
   }
   
   span {
+    color: white;
     font-size: 0.8rem;
+    font-family: 'Heebo', sans-serif;
   }
   
   #number {
@@ -367,10 +378,12 @@ th {
   }
   
   #recommend, #improve {
+    color: white;
     font-size: 0.8rem;
+    font-family: 'Heebo', sans-serif;
   }
   
-  .comment {
+  textarea {
     min-width: 18rem;
     padding: 1rem 0rem 5rem 1rem;
     margin-left: -0.2rem;
@@ -464,15 +477,17 @@ th {
     border-radius: 0.2rem
   }
   
-  #name-label, #email-label {
+  #name-label, #email-label, #number-label {
     color: white;
     font-size: 1.2rem;
     font-family: 'Heebo', sans-serif;
   }
   
   .sub_head {
+    color: white;
     padding: 1rem 0rem 0.2rem 0rem;
     font-size: 1.3rem;
+    font-family: 'Heebo', sans-serif;
   }
   
   input {
@@ -487,7 +502,9 @@ th {
   } 
   
   span {
+    color: white;
     font-size: 0.9rem;
+    font-family: 'Heebo', sans-serif;
   }
   
   #number {
@@ -534,12 +551,14 @@ th {
   }
   
   #recommend, #improve {
+    color: white;
     font-size: 1.1rem;
+    font-family: 'Heebo', sans-serif;
   }
   
-  .comment {
+  textarea {
     min-width: 24.3rem;
-    padding: 1rem 10rem 5rem 1rem;
+    padding: 1rem 2rem 5rem 1rem;
     border-radius: 0;
     font-size: 1rem;
   }
@@ -625,7 +644,7 @@ th {
     border-radius: 0.3rem;
   }
   
-  #name-label, #email-label {
+  #name-label, #email-label, #number-label {
     color: white;
     font-size: 1.5rem;
     font-family: 'Heebo', sans-serif;
@@ -636,8 +655,10 @@ th {
   } 
   
   .sub_head {
+    color: white;
     font-size: 1.5rem;
     padding: 1rem 0rem 0.2rem 0rem;
+    font-family: 'Heebo', sans-serif;
   }
   
   input {
@@ -648,7 +669,9 @@ th {
   }
   
   span {
+    color: white;
     font-size: 0.9rem;
+    font-family: 'Heebo', sans-serif;
   }
   
   #number {
@@ -694,10 +717,12 @@ th {
   }
   
   #recommend, #improve {
+    color: white;
     font-size: 1.2rem;
+    font-family: 'Heebo', sans-serif;
   }
   
-  .comment {
+  textarea {
     width: 35rem;
     padding: 1rem 6rem 6rem 1rem;
     font-size: 1.2rem;
